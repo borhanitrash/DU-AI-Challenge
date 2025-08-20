@@ -1,4 +1,4 @@
-# DU-AI-Challenge
+# 3rd Place Solution - DU AI Challenge 2025 🥉
 ## Overview
 The DU AI Challenge: DU Arena Season 1 is an intensive 8-hour computer vision competition where participants develop AI models to detect and classify traffic objects in drone-captured aerial images from Bangladesh. Teams will compete to achieve the highest mean Average Precision (mAP) on a dataset featuring 11 object classes including Bangladesh-specific vehicles like CNG auto-rickshaws, legunas, and cycle rickshaws.
 
@@ -9,8 +9,7 @@ Classes: 11 traffic participant categories including cars, buses, trucks, motorc
 Image Resolution: Primarily 4K (3840×2160) aerial captures     
 Average Objects per Image: 33 (dense traffic scenes) 
 
-# 3rd Place Solution - DU AI Challenge 2025 🥉
-
+## Our Solution
 **Final Score: 0.62898 mAP (Private Leaderboard)**
 
 ## Solution Overview
